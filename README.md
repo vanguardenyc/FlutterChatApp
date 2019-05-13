@@ -1,6 +1,6 @@
-# flutter_chat
+# Flutter Chat App
 
-A new Flutter application.
+A new Flutter application with chat feature with google sign-in feature.
 
 ## Getting Started
 
